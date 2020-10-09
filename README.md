@@ -1,15 +1,10 @@
 # LDU_Factorization
-Factorizing a rectangular matrix A as PA=LDU, where:
-
-P: permutation matrix
-
-A: rectangular matrix
-
-L: lower triangular matrix
-
-D: diagonal matrix
-
-U: upper triangular matrix
+Factorizing a rectangular matrix A as PA=LDU, where:<br>
+P: permutation matrix<br>
+A: rectangular matrix<br>
+L: lower triangular matrix<br>
+D: diagonal matrix<br>
+U: upper triangular matrix<br>
 
 The code requires Python3 and numpy to run.
 
